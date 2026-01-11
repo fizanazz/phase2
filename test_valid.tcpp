@@ -1,0 +1,23 @@
+shuru
+
+Adad a;
+ChhotaAdad b;
+Haqeeqat flag;
+
+a = 10;
+b = 5;
+flag = trueval;
+
+agar (a > b) {
+    likho(a);
+}
+warna {
+    likho(b);
+}
+
+dohrana (a = 1; a < 5; a = a + 1) {
+    likho(a);
+}
+
+khatam
+

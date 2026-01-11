@@ -1,0 +1,12 @@
+shuru
+Adad a;
+ChhotaAdad b;
+
+// Lexical error
+@invalidToken = 100;
+
+// Syntax error
+Adad missingSemi
+
+khatam
+
